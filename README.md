@@ -80,4 +80,5 @@
 
 [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LvYegor&theme=noctis_minimus)](https://github.com/LvYegor/github-profile-summary-cards)
 
-
+<div class="badge-base LI-profile-badge" data-locale="ru_RU" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="yegor-andrievsky" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://by.linkedin.com/in/yegor-andrievsky?trk=profile-badge">Yegor Andrievsky</a></div>
+              
